@@ -5,9 +5,14 @@ public class thisis{
 
 		System.out.println("分支");
 
+<<<<<<< HEAD
 
 		System.out.println("二次换分支");
+=======
+		System.out.println("换分支");
+>>>>>>> fe
 		
+		System.out.println("三次换分支");
 
 	}
 }
