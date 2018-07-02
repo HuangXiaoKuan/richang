@@ -5,5 +5,8 @@ public class thisis{
 
 		System.out.println("分支");
 
+		System.out.println("换分支");
+		
+
 	}
 }
