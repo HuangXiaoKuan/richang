@@ -27,6 +27,7 @@ public class thisis{
 
 				arr[j] = temp;
 			}
+			System.out.println(i);
 		}
 	}
 }
