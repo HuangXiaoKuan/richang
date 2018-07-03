@@ -16,7 +16,7 @@ public class thisis{
 			int j;
 			for (j = i + 1;  j  < arr.length; j++) {
 				if(arr[m] > arr[j]){
-					m = i;
+					m = i + 1;
 				}
 			}
 
